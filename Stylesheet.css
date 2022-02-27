@@ -1,0 +1,69 @@
+.open-button{background-color:lightgrey;
+       color:white;
+       padding:0px;
+       border:none;
+       cursor:pointer;
+       top:5px;
+       left:10px;
+       width:15%;
+       }
+       .menu{margin-left:5%;}
+       .logo{margin-left:50%;box-shadow:0 0 5px #555; }
+       #header{
+       background-color:black;
+       padding:10px;
+       position:fixed;
+       opacity:0.8;
+       top:50px;
+       right:1px;
+       width:100%;
+       height:30px;
+       }
+       .hr{background-color:grey;height:5px;border:none;}
+       body{font-family:Raleway;background-color:#f5f5f5;margin:0px;}
+       h1,h2,h4,h5{font-family:Raleway,sans-serif;}
+       h1,h2,h4,h5{font-family:Raleway,sans-serif;}
+       .profile{border:none;border-radius:3px;float:right;margin-left:65%;}
+       .hr{background-color:grey;height:4px;border:none;}
+       .white,.w3-Card{background-color:white;margin:15px;box-shadow:0 0 15px #555;padding:10px;border-radius:5px;}
+       .w3-Opacity{color:black;opacity:0.5;}
+       .w3-button{color:black;border:solid black 2px; border-radius:5px;padding:10px;background-color:white;margin-left:60%;}
+       .w3-Post{color:white;background-color:black;padding:5px;box-shadow:0 0 15px #555;}
+       .tags{color:white;background-color:black;padding:5px;margin:1px;}
+       .w3-ul{decoration:none;padding:16px;}
+       .Popular{background-color:darkgrey;color:black;}
+       .w3-black{color:white;background-color:black;border:none;border-radius:5px;padding:10px;}
+       .btn{display:flex;margin:15px;}
+       .red{margin-left:50px;}
+       .black{margin-left:40px;}
+       .w3-Container{padding:10px;}
+       ul{padding:5px;margin-bottom:1px;}
+       hr{background-color:black;opacity:0.8;}
+       .about{background-color:black;padding:10px;border:none;width:50%;}
+       .head{color:white;font-size:40%;}
+       Span{color:green;}
+       nav{float:right;}
+       footer{background-color:black;color:white;}
+       a{text-decoration:none;color:white;padding:5px;margin-top:600px;}
+       .image{border-radius:3%;border:solid white 2px;}
+       .w3-logo{background-color:white;position:fixed;top:0px;
+       right:1px;
+       padding:8px;
+       display:flex;
+       width:100%;
+       height:50px;}
+       .content{padding:10px;}
+       .fb{background-color:#20b2aa;margin:0px;padding:30px;}
+       #contact{margin:25px;background-color:grey;box-shadow:0 0 15px black;}
+       #about{box-shadow:0 0 15px #555;margin:30px;}
+       .about{background-color:lightgrey;box-shadow:0 0 15px #555;margin:10%;padding:1px;width:70%;}
+       .Two{background-color:grey;color:white;width:90%;height:30px;}
+       .Three{background-color:darkgrey;padding:0px;width:90%;height:20px;margin-bottom:50px;box-shadow:0 0 5px black;}
+       .TwoPer{color:white;background-color:grey;border:none;width:90%;height:20px;margin-right:90px;margin-bottom:%;box-shadow:0 0 10px none;}
+       .well{background-color:black;border:solid lightgrey 1px;height:1px;}
+       .w3-low{background-color:black;padding:5px;color:white;}
+       .percentage{background-color:darkgrey;padding:0px;width:90%;}
+       .OnePer{color:white;margin-left:0%;background-color:grey;border:none;width:90%;height:30px;margin-right:90px;}
+       .contact{background-color:#0000cd;padding:10px;color:white;border:none;border-radius:10px;}
+       .close{background-color:red;font-size:180%;padding:1px;color:white;margin:1px;border:blue;width:30px;}
+       main{background-image:url('Skyfly.jpg');color:yellow;position:center;}
